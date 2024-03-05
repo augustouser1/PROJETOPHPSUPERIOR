@@ -1,0 +1,31 @@
+body{
+    background-image: url(imagens/DSBWodKWAAACvee.jpg);
+ }
+ .navbar-brand{
+   color:white;
+ }
+ .navbar-text{
+     color:brown;
+ }
+ 
+ .nav-link{
+     color:white;
+ }
+ 
+ 
+ h1{
+     padding-left: 40rem;
+     padding-right:25 rem;
+     padding-top: 1rem;
+     padding-bottom: 5rem;
+     font: size 50rem; ;
+ }
+ p{
+     
+     display: center;
+ 
+ }
+
+ 
+
+  
